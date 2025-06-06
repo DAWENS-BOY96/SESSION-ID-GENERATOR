@@ -70,7 +70,7 @@ router.get('/', async (req, res) => {
 Chat me 👉 https://wa.me/50942241547
 𝕋ℍ𝕀𝕊 𝕀𝕊 ZARYA-MD-NEW-BOT 2025
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-©*2024-2099 ZARYA-FROM-HAITI🇹🇿✌️*
+©*2024-2099 ZARYA-FROM-HAITI✌️*
 
 _Don't Forget To Give Star To My Repo_`
  await Pair_Code_By_Gifted_Tech.sendMessage(Pair_Code_By_Gifted_Tech.user.id,{text:GIFTED_MD_TEXT},{quoted:session})
